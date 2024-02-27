@@ -1,6 +1,7 @@
 # Group_Chat_23it
 this repository is for github preparation
 
+:shipit:
 
 <details>
   <summary>The Invited</summary>
@@ -9,3 +10,6 @@ this repository is for github preparation
   Duong Dinh
   
 </details>
+
+
+
