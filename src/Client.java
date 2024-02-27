@@ -112,20 +112,7 @@ public class Client {
 		}
 	}	
 	
-//	public static void main(String[] args) {
-//		try {
-//			Scanner scanner = new Scanner(System.in);
-//			System.out.print("Enter your username: ");
-//			String username = scanner.nextLine();
-//			
-//			Socket socket1 = new Socket("localhost", 51002);
-//			Client ClientObj = new Client(socket1, username);
-//			ClientObj.Client_ReceiveMsg();
-//			ClientObj.Client_SendMsg();
-//			
-//			scanner.close();
-//		} catch (IOException e) {
-//			e.printStackTrace();
-//		}
-//	}
+//	test
+
+	
 }
